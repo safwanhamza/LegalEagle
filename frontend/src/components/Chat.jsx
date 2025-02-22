@@ -80,30 +80,27 @@ function Chat() {
         <div className="mt-10">
 
           <h3 className="text-4xl font-semibold text-justify leading-7 w-11/12 mx-auto">
-          High-Precision Legal Expert LLM APP <span className="text-cyan-600">Contract Advisor RAG</span>
+         LegalEagle <span className="text-cyan-600">Contract Advisor RAG</span>
           </h3>
 
           <h3 className="text-2xl font-semibold text-justify leading-7 w-11/12 mx-auto pt-10">
-            10 Academy Cohort A weekly challenge: Week 11. 
           </h3>
-          <p className="text-justify leading-7 w-11/12 mx-auto">The goal of this challenge is to build, evaluate and improve a RAG system for Contract Q&A, chatting with a contract and asking questions about the contract.
+          <p className="text-justify leading-7 w-11/12 mx-auto">
           </p>
           <h3 className="text-2xl font-semibold text-justify leading-7 w-11/12 mx-auto pt-10">
-          Business Objective:
           </h3>
-          <p className="text-justify leading-7 w-11/12 mx-auto">Developing the next-generation contract AI by leveraging Hybrid LLM technology (edge, private cloud and LLM services), to build the first, fully autonomous, artificial contract lawyer. The first step in our journey is a powerful contract assistant, with the ultimate goal of developing a fully autonomous contract bot, capable of drafting, reviewing, and negotiating contracts, independently, end-to-end, without human assistance.
+          <p className="text-justify leading-7 w-11/12 mx-auto">
           </p>
           <h3 className="text-2xl font-semibold text-justify leading-7 w-11/12 mx-auto pt-10">
-          Project Methodology:
           </h3>
-          <p className="text-justify leading-7 w-11/12 mx-auto">The project consists of the following tasks:</p>
+          <p className="text-justify leading-7 w-11/12 mx-auto"></p>
           <ul className="text-justify leading-7 w-11/12 mx-auto">
-            <li>Task 1: Research ways to improve RAG systems in general.</li>
-            <li>Task 2: Build simple Q&A pipeline with RAG using Langchain</li>
-            <li>Task 3: Build a RAG evaluation pipeline with RAGAS</li>
-            <li>Task 4: Idea to optimize Contract Q&A</li>
-            <li>Task 5: Implement at least two enhancements</li>
-            <li>Task 6: Interpretation & Reporting</li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
           </ul>
           
           <div className="flex flex-row-reverse ...">
@@ -118,7 +115,7 @@ function Chat() {
                     <li><span className="text-cyan-600">Chunking:</span> RecursiveCharacterTextSplitter</li>
                     <li><span className="text-cyan-600">Vector Store:</span> Chroma</li>
                     <li><span className="text-cyan-600">Retriever:</span> ParentDocumentRetriever and EnsembleRetriever</li>
-                    <li><span className="text-cyan-600">Generation and Embedding:</span> OpenAI</li>
+                    <li><span className="text-cyan-600">Generation and Embedding:</span> OpenSource LLMs & Nomic</li>
                     <li><span className="text-cyan-600">Evaluation:</span> RAGAS</li>
                   </ul>
                 
